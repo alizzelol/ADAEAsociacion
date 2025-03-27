@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "395527811003",
+    "project_id": "calendario-522bc",
+    "storage_bucket": "calendario-522bc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395527811003:android:03797a84a7f43948af1e9e",
+        "android_client_info": {
+          "package_name": "com.alizzelol.adae"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5cMOHatqeKwzcoiz1S_L0abX18kRgEj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395527811003:android:7f1282c36f05e20aaf1e9e",
+        "android_client_info": {
+          "package_name": "com.alizzelol.adaeaso"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5cMOHatqeKwzcoiz1S_L0abX18kRgEj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395527811003:android:2f8fefce99547aa5af1e9e",
+        "android_client_info": {
+          "package_name": "com.alizzelol.adaeasociacion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5cMOHatqeKwzcoiz1S_L0abX18kRgEj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395527811003:android:9823c8590910f956af1e9e",
+        "android_client_info": {
+          "package_name": "com.alizzelol.calendario"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5cMOHatqeKwzcoiz1S_L0abX18kRgEj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395527811003:android:a2d58b2ddcefb371af1e9e",
+        "android_client_info": {
+          "package_name": "com.alizzelol.chatcalendario"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5cMOHatqeKwzcoiz1S_L0abX18kRgEj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
