@@ -34,6 +34,27 @@
         <activity
             android:name=".ConversationActivity"
             android:exported="false" />
+        <activity
+            android:name=".AnadirEventoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AnadirUsuarioActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DetallesUsuarioActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EditarUsuarioActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EventosDiaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ListaEventosActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ListaUsuariosActivity"
+            android:exported="false" />
 
         <activity
             android:name=".MainActivity"
