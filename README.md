@@ -27,15 +27,20 @@ To configure access to the Firestore database, follow these steps:
 
     ```gradle
     plugins {
-        id("com.google.gms.google-services")
-        id("kotlin-parcelize")
+       id("com.google.gms.google-services")
+       id("kotlin-parcelize")
     }
 
     dependencies {
-        implementation(platform("com.google.firebase:firebase-bom:33.10.0")) // Check the latest version
-        implementation 'com.google.firebase:firebase-analytics'
-        implementation 'com.google.firebase:firebase-auth'
-        implementation 'com.google.firebase:firebase-firestore:24.6.0'
+        implementation("androidx.appcompat:appcompat:1.6.1")
+       implementation("androidx.recyclerview:recyclerview:1.3.2")
+       implementation("com.google.android.material:material:1.11.0")
+       implementation("org.jetbrains.kotlin:kotlin-parcelize-runtime:1.9.22")
+
+       implementation(platform("com.google.firebase:firebase-bom:33.11.0"))
+       implementation("com.google.firebase:firebase-analytics")
+       implementation("com.google.firebase:firebase-auth")
+       implementation("com.google.firebase:firebase-firestore:24.6.0")
     }
     ```
 3.  Add the `google-services.json` file:
