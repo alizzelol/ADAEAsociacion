@@ -55,7 +55,21 @@
         <activity
             android:name=".ListaUsuariosActivity"
             android:exported="false" />
-
+        <activity
+            android:name=".ApuntarseEventoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EventosDiaPadresActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ListaEventosPorTipos"
+            android:exported="false" />
+        <activity
+            android:name=".MisEventosActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PerfilUsuarioActivity"
+            android:exported="false" />
         <activity
             android:name=".MainActivity"
             android:exported="true"
