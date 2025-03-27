@@ -43,6 +43,7 @@
             android:id="@+id/btnSend"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:background="@drawable/rounded_button"
             android:text="Enviar" />
 
     </LinearLayout>

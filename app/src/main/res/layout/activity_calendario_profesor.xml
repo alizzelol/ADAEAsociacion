@@ -12,6 +12,7 @@
         android:textSize="20dp"
         android:layout_marginTop="10dp"
         android:layout_gravity="clip_horizontal"
+        android:background="@drawable/rounded_button"
         android:text="Chat" />
 
     <GridView

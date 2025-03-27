@@ -54,6 +54,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="15dp"
         android:layout_gravity="center"
+        android:background="@drawable/rounded_button"
         android:text="Editar" />
 
     <Button
@@ -62,6 +63,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="15dp"
         android:layout_gravity="center"
+        android:background="@drawable/rounded_button"
         android:text="Eliminar" />
 
 </LinearLayout>

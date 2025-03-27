@@ -41,6 +41,7 @@
         android:textSize="20dp"
         android:layout_marginTop="10dp"
         android:layout_gravity="center"
+        android:background="@drawable/rounded_button"
         android:text="Seleccionar fecha" />
 
     <Button
@@ -50,6 +51,7 @@
         android:textSize="20dp"
         android:layout_marginTop="10dp"
         android:layout_gravity="center"
+        android:background="@drawable/rounded_button"
         android:text="Guardar" />
 
 </LinearLayout>
